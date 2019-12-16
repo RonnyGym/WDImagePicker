@@ -33,6 +33,7 @@
 
 /* Begin PBXFileReference section */
 		54BCF39423A7B8DB007924E1 /* WDImagePicker.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = WDImagePicker.podspec; sourceTree = "<group>"; };
+		54E8B0C723A7BA8A00FE966A /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		764FD5811B8F01C100BE5F46 /* WDImagePicker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WDImagePicker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		764FD5851B8F01C100BE5F46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		764FD5861B8F01C100BE5F46 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -76,6 +77,7 @@
 				764FD5991B8F01C100BE5F46 /* WDImagePickerTests */,
 				764FD5821B8F01C100BE5F46 /* Products */,
 				54BCF39423A7B8DB007924E1 /* WDImagePicker.podspec */,
+				54E8B0C723A7BA8A00FE966A /* Package.swift */,
 			);
 			sourceTree = "<group>";
 		};
